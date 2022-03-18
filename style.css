@@ -20,8 +20,8 @@ body{
 }
 
 .container-left{
-    grid-column: span 2;
     height: 100%;
+    grid-column: span 2;
     background-image: linear-gradient(to right top, #2e0537, #40195d, #493089, #454ab9, #1267eb);
 }
 .right{
@@ -202,7 +202,7 @@ body{
 .disc-title-2{
     letter-spacing: 1px;
     font-size: 1.3rem;
-    color: #2D9CDB;
+    color: #557B83;
     text-transform: uppercase;
 }
 
