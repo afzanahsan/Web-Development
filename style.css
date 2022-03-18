@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     list-style: none;
-    font-family: sans-serif;
+    font-family: system-ui;
 }
 
 body{
@@ -99,47 +99,16 @@ body{
     padding: .4rem 0;
 }
 
-.progress-bar{
-    width: 100%;
-    height: .4rem;
-    background-color: #2f81ed5b;
-    position: relative;
-    border-radius: 12px;
+.circle{
+    color: #fff; 
+    font-size: 14px!important; 
+    margin-top: 7px;
 }
-.progress{
-    height: 100%;
-    position: absolute;
-    left: 0;
-    background-color: #2D9CDB;
-    border-radius: 12px;
+.circle1{
+    color: #a5a5a5; 
+    font-size: 14px!important; 
+    margin-top: 7px;
 }
-.j-progress{
-    width: 75%;
-}
-.c-progress{
-    width: 60%;
-}
-.s-progress{
-    width: 80%;
-}
-.js-progress{
-    width: 70%;
-}
-.p-progress{
-    width: 80%;
-}
-.r-progress{
-    width: 70%;
-}
-.css-progress{
-    width: 90%;
-}
-.cs-progress{
-    width: 75%;
-}
-
-
-
 
 .my-skills-title{
     
